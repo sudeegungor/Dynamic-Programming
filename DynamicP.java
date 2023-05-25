@@ -1,7 +1,7 @@
 
 import java.io.*;
 import java.util.*;
-public class Sude_Güngör_2021510032 {
+public class DynamicP {
 	
 	public static int DP(int n,int p,int c,int[] demand,int[] salary)
 	{
